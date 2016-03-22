@@ -6,5 +6,8 @@ Foo Py
 from . import VERSION
 from .foo2 import CONSTA
 
+def  main():
+    very_longstring = "11111" # ####################################################################################################################
+    print very_longstring
 
-
+  
